@@ -17,22 +17,22 @@ This project is about learning to us Microsoft 365.
 1 - First step is to create a Microsoft 365 Develeoper Program account. You can use this link to signup. https://developer.microsoft.com/en-us/microsoft-365/dev-program <br/>
 <br />
 2 - This is the page you get once you log in. <br/>
-![1](https://user-images.githubusercontent.com/103763124/213913937-68227484-9a31-4623-9616-48d9cf91ce32.png)
+3 - Expand the Users column from the left side and select "Active users". <br/>
+<img width="900" alt="1" src="https://user-images.githubusercontent.com/103763124/213913937-68227484-9a31-4623-9616-48d9cf91ce32.png">
 <br />
-4	- Select the Create drop down menu. <br/>
-5 - Then select Create a virtual machine hosted by Azure. <br/>
-<img width="900" alt="Azure Virtual Machine" src="https://user-images.githubusercontent.com/103763124/211360798-2389803e-a3c5-45e4-b87f-b4ec372b558a.png">
+4	- Select "Add a user". <br/>
+<img width="900" alt="3" src="https://user-images.githubusercontent.com/103763124/213914322-beef0790-e2e9-4894-9ceb-b209c7eb96c7.png">
 <br />
-6	- Select Create new resources group and name it "HomeLab" and select OK.  <br/>
-<img width="900" alt="Create resource group" src="https://user-images.githubusercontent.com/103763124/211361617-1f9645c1-c3cd-48d6-a46c-f87d0c8bd846.png">
+5	- Fill in the follwing details as an example and select "Next".  <br/>
+<img width="900" alt="4" src="https://user-images.githubusercontent.com/103763124/213914422-4fe03e23-d1d2-4326-a44e-f69543eba542.png">
+6 - Select a location and assign the user a license in this case you will have one option available. Then select "Next". <br/>
+<img width="900" alt="5" src="https://user-images.githubusercontent.com/103763124/213914664-fd54633d-5bec-485a-a0a2-07ead773a8f8.png">
 <br />
-7 - Name your virtual machine "Server2019". <br/>
-8 - For image select "Windows Server 2019 Datacenter -x64 Gen2". <br/>
-9 - Size keep default "Standard_D2s_v3 - 2vcpus, 8 GiB memory ($137.24/month)". <br/>
-<img width="900" alt="Replace 4" src="https://user-images.githubusercontent.com/103763124/213251475-34a0bb9f-ff62-4d47-9e48-b2a1f8b0a78d.png">
+7 - You can add additional information here and select "Next". <br/>
+<img width="900" alt="6" src="https://user-images.githubusercontent.com/103763124/213914748-bd01dec7-72c4-4e67-b0bd-dd73cf3f6984.png"> 
 <br />
-10 - Create your Administrator account. Give it a username and password. <br/>
-<img width="900" alt="Create account" src="https://user-images.githubusercontent.com/103763124/211364147-4a037090-eda0-43fe-beba-983a6cbf12d0.png"> 
+8 - You can review your information here. Then select "Finish adding". <br/>
+<img width="900" alt="7" src="https://user-images.githubusercontent.com/103763124/213914896-f6b639ad-541b-440f-af71-a1c099e85a6e.png"> 
 <br />
 11 - Select Review + create. <br/>
 <img width="900" alt="Review and create" src="https://user-images.githubusercontent.com/103763124/211364931-fd870385-f333-463b-83b3-149aa617204e.png"> 
