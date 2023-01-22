@@ -14,11 +14,10 @@ This project is about learning to us Microsoft 365.
 <h2>Program walk-through:</h2>
 
 <!-- <p align="center"> --!>
-1 - First step is to create a Microsoft 365 Develeoper Program account. Using this linke to sign up https://developer.microsoft.com/en-us/microsoft-365/dev-program <br/>
+1 - First step is to create a Microsoft 365 Develeoper Program account. You can use this link to signup. https://developer.microsoft.com/en-us/microsoft-365/dev-program <br/>
 <br />
-2 - After creating your Azure account you can select home on the left panel. <br/>
-3 - Then select Virtual machines. <br/>
-<img width="900" alt="Click Virtual Machines" src="https://user-images.githubusercontent.com/103763124/211358766-358348ea-e2fc-4e13-9ae8-3d1ff6030140.png">
+2 - This is the page you get once you log in. <br/>
+![1](https://user-images.githubusercontent.com/103763124/213913937-68227484-9a31-4623-9616-48d9cf91ce32.png)
 <br />
 4	- Select the Create drop down menu. <br/>
 5 - Then select Create a virtual machine hosted by Azure. <br/>
