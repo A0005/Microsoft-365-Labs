@@ -1,9 +1,9 @@
-<h1>Adding a users through Microsoft Admin Center</h1>
+<h1>Adding a user through Microsoft Admin Center</h1>
 
 [YouTube Demonstration by Cobuman](https://www.youtube.com/watch?v=LE0lGzVtqUM&list=PL4jgQJG6eMDPBHQ4UHueb1xoABkGO6WbQ&index=2)
 
 <h2>Description</h2>
-This project is about learning to add a users through the Microsoft Admin Center.
+This project is about how to add a users through the Microsoft Admin Center.
 <br />
 
 
