@@ -14,7 +14,7 @@ This project is about learning to us Microsoft 365.
 <h2>Program walk-through:</h2>
 
 <!-- <p align="center"> --!>
-1 - First step is to create a free Azure account. <br/>
+1 - First step is to create a Microsoft 365 Develeoper Program account. Using this linke to sign up https://www.youtube.com/watch?v=LE0lGzVtqUM&list=PL4jgQJG6eMDPBHQ4UHueb1xoABkGO6WbQ&index=2 <br/>
 2 - After creating your Azure account you can select home on the left panel. <br/>
 3 - Then select Virtual machines. <br/>
 <img width="900" alt="Click Virtual Machines" src="https://user-images.githubusercontent.com/103763124/211358766-358348ea-e2fc-4e13-9ae8-3d1ff6030140.png">
